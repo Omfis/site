@@ -1,9 +1,15 @@
 body{
 	background: red;
+	font-size: 20;
+	margin: 0 auto;
+	width: 970px;
 }
 h1{
-	font-size:60px;
+	font-size: 60px;
 }
-body{
-	font-size:20;
+p{
+	font-size: 48px;
+}
+div{
+	font-size: 128px;
 }
